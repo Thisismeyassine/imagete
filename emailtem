@@ -1,0 +1,27 @@
+<div style="font-family: Arial, sans-serif; color: #333333; background-color: #ffffff; padding: 0; margin: 0; max-width: 600px; margin: auto;">
+  <!-- Logo -->
+  <div style="text-align: center;">
+    <img src="https://i.postimg.cc/28FjHT3Z/Purple-minimalist-Tech-Company-Logo-21-x-29-7-cm-Email-Header-2.png" alt="AIEVORA Logo" style="width: 100%; max-width: 600px; display: block;" />
+  </div>
+
+  <!-- Editable Section START -->
+  <div style="padding: 20px; font-size: 16px; line-height: 1.6;">
+    Hi [First Name],<br /><br />
+    I'm Yassin, founder of <strong>AIEVORA</strong>. We help businesses unlock their full potential by integrating AI into their operations—automating what slows them down and scaling what drives them forward.<br /><br />
+    <ul>
+      <li>AI Agents that handle tasks, leads, and customer queries</li>
+      <li>Smart process automations to boost efficiency</li>
+      <li>Custom-built AI Chatbots tailored to your workflow</li>
+    </ul><br />
+    Whether you're streamlining support or scaling up, our AI solutions are built to help your business grow with confidence.
+  </div>
+  <!-- Editable Section END -->
+
+  <!-- Signature -->
+  <div style="padding: 20px; font-size: 14px; color: #888888;">
+    Best regards,<br />
+    Yassin<br />
+    Founder, AIEVORA<br />
+    <a href="https://yourwebsite.com" style="color: #BB8EF6; text-decoration: none;">yourwebsite.com</a>
+  </div>
+</div>
